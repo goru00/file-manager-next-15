@@ -1,2 +1,1 @@
-# file-manager-next-15
-FileManager in NextJS 15
+# Файловый менеджер на Next 15
